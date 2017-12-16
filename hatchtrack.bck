@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL343
+D MEMS Accelerometer
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
+$ENDCMP
+#
+$CMP BME680
+D Bosch environmental multi sensor
+F https://cdn-shop.adafruit.com/product-files/3660/BME680.pdf
+$ENDCMP
+#
+$CMP CP2102N
+D USB to UART bridge
+F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
+$CMP LP5912
+D LDO
+F http://www.ti.com/lit/ds/symlink/lp5912.pdf
+$ENDCMP
+#
+$CMP MCP73831
+D Real-Time Clock, I2C, Battery Backup
+K realtime clock RTC
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf
+$ENDCMP
+#
+#End Doc Library
