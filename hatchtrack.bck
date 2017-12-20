@@ -15,6 +15,11 @@ D USB to UART
 F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
 $ENDCMP
 #
+$CMP ICM20689
+D 6 Axis Gyroscope / Acceleromater
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/35/b1/e0/39/71/57/43/01/DM00060659.pdf/files/DM00060659.pdf/jcr:content/translations/en.DM00060659.pdf
+$ENDCMP
+#
 $CMP L3GD20H
 D Gyroscope
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/35/b1/e0/39/71/57/43/01/DM00060659.pdf/files/DM00060659.pdf/jcr:content/translations/en.DM00060659.pdf
@@ -33,6 +38,11 @@ $ENDCMP
 $CMP SPK0838HT4H-B
 D MEMS Mic
 F https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Acoustics%20PDFs/SPK0838HT4H-B.pdf
+$ENDCMP
+#
+$CMP TPD3E001
+D LDO
+F http://www.ti.com/lit/ds/symlink/lp5912.pdf
 $ENDCMP
 #
 #End Doc Library
