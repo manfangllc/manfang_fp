@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +Vusb
+K POWER, PWR
+$ENDCMP
+#
 $CMP ADXL343
 D MEMS Accelerometer
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
