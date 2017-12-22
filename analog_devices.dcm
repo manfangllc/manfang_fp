@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADXL343
+D MEMS Accelerometer
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
+$ENDCMP
+#
+#End Doc Library
