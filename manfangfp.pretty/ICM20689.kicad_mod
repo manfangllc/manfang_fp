@@ -1,5 +1,5 @@
-(module ICM20689 (layer F.Cu) (tedit 5A3ACAEB)
-  (fp_text reference REF** (at 0 -3.6) (layer F.SilkS)
+(module ICM20689 (layer F.Cu) (tedit 5A3DA23A)
+  (fp_text reference U4 (at 0 -3.6) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
   (fp_text value ICM20689 (at 0 3.6) (layer F.Fab)
@@ -40,4 +40,5 @@
   (pad 22 smd oval (at -0.25 -1.975) (size 0.35 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 23 smd oval (at -0.75 -1.975) (size 0.35 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 24 smd oval (at -1.25 -1.975) (size 0.35 0.85) (layers F.Cu F.Paste F.Mask))
+  (pad 25 smd rect (at 0 0) (size 2.7 2.6) (layers F.Cu F.Paste F.Mask))
 )
