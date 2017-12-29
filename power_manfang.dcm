@@ -10,4 +10,9 @@ D power-flag symbol +2.8V
 K Power Flag Symbol
 $ENDCMP
 #
+$CMP VBUS
+D power-flag symbol +2.8V
+K Power Flag Symbol
+$ENDCMP
+#
 #End Doc Library
