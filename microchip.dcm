@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP73831
+D Li-Ion USB charger
+F https://cdn.sparkfun.com/assets/learn_tutorials/6/9/5/MCP738312.pdf
+$ENDCMP
+#
+#End Doc Library

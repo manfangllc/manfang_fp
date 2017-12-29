@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP5912
+D LDO
+F http://www.ti.com/lit/ds/symlink/lp5912.pdf
+$ENDCMP
+#
+#End Doc Library
