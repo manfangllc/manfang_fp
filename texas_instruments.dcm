@@ -1,8 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CSD18537NQ5A
+D Transistor N-MOSFETwith substrate diode, drain connected to mounting plane (general)
+K NMOS n-mos n-mosfet transistor
+$ENDCMP
+#
 $CMP LP5912
 D LDO
 F http://www.ti.com/lit/ds/symlink/lp5912.pdf
+$ENDCMP
+#
+$CMP Q_NMOS_SDGD
+D N-Channel 60V 11A (Ta), 50A (Tc) 3.2W (Ta), 75W (Tc) Surface Mount 8-VSONP (5x6)
+$ENDCMP
+#
+$CMP TPS22990
+D 10A load switch
 $ENDCMP
 #
 #End Doc Library
