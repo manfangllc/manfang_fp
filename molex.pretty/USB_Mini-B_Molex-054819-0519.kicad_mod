@@ -1,4 +1,4 @@
-(module USB_Mini-B_Molex-054819-0519 (layer F.Cu) (tedit 5B7E9231)
+(module USB_Mini-B_Molex-054819-0519 (layer F.Cu) (tedit 5B82EB1E)
   (fp_text reference REF** (at 2.3 -7.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -13,8 +13,8 @@
   (pad 5 thru_hole oval (at 6.8 1.6 90) (size 1.1 1.65) (drill 0.7 (offset 0 0.275)) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 1.75 3.65 180) (size 2.7 1.7) (drill oval 1.9 0.7) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 1.75 -3.65 180) (size 2.7 1.7) (drill oval 1.9 0.7) (layers *.Cu *.Mask))
-  (model /home/bsmith/kicad/lib/manfang_fp/3d_models/548190519.wrl
-    (offset (xyz -2 0 1.98))
+  (model /home/bsmith/kicad/lib/manfang_fp/3d_models/molex.3dshaped/548190519.stp
+    (offset (xyz -2 0 2))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )

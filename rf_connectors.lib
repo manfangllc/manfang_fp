@@ -1,6 +1,21 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# RF-GND1
+#
+DEF RF-GND1 J 0 40 Y Y 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "RF-GND1" 50 100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 8 0 1 0 F
+C 0 0 71 0 1 0 N
+X ~ 1 -200 0 200 R 50 50 1 1 I
+X ~ 2 0 -150 75 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # RF-GND4
 #
 DEF RF-GND4 J 0 40 Y Y 1 F N
