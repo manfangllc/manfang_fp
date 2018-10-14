@@ -1,4 +1,4 @@
-(module FRAMATOME_67997-206HLF (layer F.Cu) (tedit 0)
+(module FRAMATOME_67997-206HLF (layer F.Cu) (tedit 5BC3C568)
   (fp_text reference FRAMATOME_67997-206HLF (at -0.5052 -3.70789) (layer F.SilkS)
     (effects (font (size 1.40337 1.40337) (thickness 0.05)))
   )
@@ -25,4 +25,9 @@
   (pad 4 thru_hole circle (at 0 -1.27) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.54 1.27) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
   (pad 6 thru_hole circle (at 2.54 -1.27) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask))
+  (model /home/bsmith/kicad/lib/manfang_fp/3d_models/amphenol.3dshapes/TSW-103-07-F-D.stp
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )

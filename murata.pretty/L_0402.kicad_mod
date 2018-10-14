@@ -1,4 +1,4 @@
-(module Inductors_SMD:L_0402 (layer F.Cu) (tedit 59912B76)
+(module L_0402 (layer F.Cu) (tedit 5BC206AD)
   (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
   (tags "resistor 0402")
   (attr smd)
@@ -23,7 +23,7 @@
   )
   (pad 2 smd rect (at 0.45 0) (size 0.4 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -0.45 0) (size 0.4 0.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_0402.wrl
+  (model /home/bsmith/kicad/lib/manfang_fp/3d_models/murata.3dshapes/LQG15HS_HN.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
