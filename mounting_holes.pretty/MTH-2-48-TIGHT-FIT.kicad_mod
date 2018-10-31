@@ -1,0 +1,9 @@
+(module MTH-2-48-TIGHT-FIT (layer F.Cu) (tedit 5BD70749)
+  (fp_text reference REF** (at 0 -3.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value MTH-2-48-TIGHT-FIT (at 0 3.4) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" thru_hole circle (at 0 0) (size 4.25 4.25) (drill 2.25) (layers *.Cu *.Mask))
+)
